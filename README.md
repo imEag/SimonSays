@@ -2,6 +2,8 @@
 # Simon Says
 The classic memory game made in vanilla JavaScript. the objective is to remember the colors and its order.
 
+[Visit the project website](https://imeag.github.io/SimonSays/)
+
 ## Features
 
 - Just click 'play' and play!
